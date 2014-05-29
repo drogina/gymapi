@@ -1,0 +1,12 @@
+
+{
+	"name": "gymternet-api",
+	"version": "0.0.0",
+	"description": "All things gymternet",
+	"author": "drogina",
+	"dependencies": {
+		"angular": "1.2.x",
+		"angular-resource": "1.2.x",
+		"angular-ui-router": "0.2.x"
+	}
+}
